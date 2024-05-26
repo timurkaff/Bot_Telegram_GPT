@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "gpt.js",
+  "scripts": {
+    "start": "node ./bot.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
