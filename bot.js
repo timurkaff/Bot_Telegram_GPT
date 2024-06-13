@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const { gpt } = require("gpti");
 
-const bot = new Telegraf('6584920107:AAEpqUBIq52cpbMHmqrTtUZ1gp06AWekrOI');
+const bot = new Telegraf('ВАШ ТОКЕН');
 const chatMessages = new Map();
 
 bot.telegram.setMyCommands([
